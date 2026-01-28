@@ -1,3 +1,4 @@
 ﻿displayName = SOOO HIGH
-author = Slothy
+author = Slothy, BonPog
+
 version = 4.20.4.8
