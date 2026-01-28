@@ -2,7 +2,7 @@ using Terraria.ModLoader;
 using Terraria;
 using Terraria.ID;
 
-namespace Content.NPCs.Bosses
+namespace CanWeGetMuchHigher.Content.NPCs.Bosses
 {
 	[AutoloadBossHead]
 	public class Trapperboss : ModNPC
