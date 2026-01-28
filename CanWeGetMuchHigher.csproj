@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+
+	<!-- References -->
+	<ItemGroup>
+		<Compile Include="CanWeGetMuchHigher/Content/Weapons/Ammo/GlockAmmo.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Projectiles/Weapons/GlockProj.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Weapons/Glock19fa.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Tiles/WeedBench.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/Placeables/WeedBench.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Buffs/JointBuff.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/Consumables/Joint.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/Materials/OGKush.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/Placeables/Seed1.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Tiles/Plant1.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/NPCs/Enemies/SeedMan.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Projectiles/NPCs/Enemies/SeedManProj.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Sounds/Fart.wav" />
+		<Compile Include="CanWeGetMuchHigher/Content/Sounds/Fart.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Weapons/Draco.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Weapons/Ammo/DracoAmmo.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Projectiles/Weapons/DracoProj.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/Placeables/RGBpc.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Tiles/RGBpc.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/Accessories/PimpWings.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/NPCs/Enemies/HighSlime.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Armor/Vanity/PimpHat.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Projectiles/Pets/RoombaProj.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Buffs/RoombaBuff.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/Pets/Roomba.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/MyPlayer/MyPlayer420.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/NPCs/Friendly/Drew.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/MyPlayer/SummonChipUI.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Commands/giveitems.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/Materials/SummonChip.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/Pets/Roomba.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Projectiles/Pets/SafePetProj.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Buffs/SafePetBuff.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/Pets/SafePet.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/MISC/Pearl.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Projectiles/Weapons/PearlProj.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Tiles/ShotgunTrap.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/Placeables/ShotgunTrap.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Projectiles/Weapons/ShotgunTrapProj.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Tiles/ShotgunTrapEntity.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Systems/SoundDelaySystem.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Sounds/rickroll.wav" />
+		<Compile Include="CanWeGetMuchHigher/Content/NPCs/Enemies/SwampFly.cs" />
+	</ItemGroup>
+
+</Project>

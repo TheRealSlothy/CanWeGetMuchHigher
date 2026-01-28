@@ -1,0 +1,160 @@
+Items: {
+	GlockAmmo: {
+		DisplayName: Glock Ammo
+		Tooltip: 9mm
+	}
+
+	Glock19fa: {
+		DisplayName: Glock 19
+		Tooltip: Its California Compliant I SWEARRRR.....
+	}
+
+	WeedBench: {
+		DisplayName: Weed Bench
+		Tooltip: Used for some *very special* crafting.
+	}
+
+	Joint: {
+		DisplayName: Joint
+		Tooltip: Get lit, Grants:+1 Minion +20% Increased Ranged Damage +100 Max Life
+	}
+
+	OGKush: {
+		DisplayName: OG Kush
+		Tooltip: Who TF Bags By The G
+	}
+
+	Seed1: {
+		DisplayName: OG Kush Seed
+		Tooltip: Plants a nice tree
+	}
+
+	DracoAmmo: {
+		DisplayName: Draco Ammo
+		Tooltip: 7.62x39mm
+	}
+
+	Draco: {
+		DisplayName: Draco
+		Tooltip: " *BANG BANG* - Sosa"
+	}
+
+	RGBpc: {
+		DisplayName: R-G-B Pc
+		Tooltip: Did I Say It Has R-G-B
+	}
+
+	PimpWing: {
+		DisplayName: Pimp Wing
+		Tooltip: Get Ya Hands Off My Wings ***
+	}
+
+	PimpHat: {
+		DisplayName: Pimp Hat
+		Tooltip: Some Say He's Slick
+	}
+
+	Roomba: {
+		DisplayName: Roomba
+		Tooltip: Summons a Chill Guy
+	}
+
+	SlothyChest: {
+		DisplayName: Slothy's Chest
+		Tooltip: SWAG
+	}
+
+	SlothyHead: {
+		DisplayName: Slothy's Head
+		Tooltip: SWAG
+	}
+
+	SlothyLeg: {
+		DisplayName: Slothy's Legs
+		Tooltip: SWAG
+	}
+
+	SummonChip: {
+		DisplayName: Summon Chip
+		Tooltip: Used In Shellphone Crafting (Shows How Many Summons You Have Active)
+	}
+
+	SafePet: {
+		DisplayName: John Dillinger
+		Tooltip: Summons a Flying Safe to store your items
+	}
+
+	Pearl: {
+		DisplayName: Weed Ball
+		Tooltip: Ouch
+	}
+
+	ShotgunTrap: {
+		DisplayName: Shotgun Trap
+		Tooltip: ""
+	}
+
+	EokaAmmo: {
+		DisplayName: Handmade Shell
+		Tooltip: ""
+	}
+
+	Eoka: {
+		DisplayName: Eoka
+		Tooltip: Has a chance not to shoot
+	}
+}
+
+Projectiles: {
+	GlockProj.DisplayName: 9mm
+	SeedManProj.DisplayName: Seed Man's Seed
+	DracoProj.DisplayName: 7.62x39mm
+	RoombaProj.DisplayName: Roomba
+	SafePetProj.DisplayName: Flying Safe
+	PearlProj.DisplayName: Weed Ball
+	EokaProj.DisplayName: Handmade Shell
+}
+
+Tiles: {
+	WeedBench.MapEntry: Weed Bench
+	Plant1.MapEntry: OG Kush Plant
+	ShotgunTrap.MapEntry: Shotgun Trap
+}
+
+Buffs: {
+	JointBuff: {
+		DisplayName: Blazed Up
+		Description: +1 Minion +20% Increased Ranged Damage +100 Max Life
+	}
+
+	RoombaBuff: {
+		DisplayName: Roomba Buff
+		Description: W
+	}
+
+	SafePetBuff: {
+		DisplayName: Flying Safe
+		Description: What Da Heli
+	}
+}
+
+NPCs: {
+	SeedMan.DisplayName: Seed Man
+	HighSlime.DisplayName: High Slime
+	SwampFly.DisplayName: Swamp Fly
+
+	Drew: {
+		TownNPCMood: {
+			Princess_LovesNPC: I like {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			HateCrowded: I hate how crowded I am.
+			DislikeCrowded: I dislike how crowded I am.
+			LoveSpace: I love having so much space.
+			FarFromHome: I am too far from home.
+			NoHome: I hate not having a home.
+			Content: I am content.
+		}
+
+		DisplayName: Drew
+	}
+}
