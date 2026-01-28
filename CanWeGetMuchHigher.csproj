@@ -22,8 +22,6 @@
 		<Compile Include="CanWeGetMuchHigher/Content/Tiles/Plant1.cs" />
 		<Compile Include="CanWeGetMuchHigher/Content/NPCs/Enemies/SeedMan.cs" />
 		<Compile Include="CanWeGetMuchHigher/Content/Projectiles/NPCs/Enemies/SeedManProj.cs" />
-		<Compile Include="CanWeGetMuchHigher/Content/Sounds/Fart.wav" />
-		<Compile Include="CanWeGetMuchHigher/Content/Sounds/Fart.cs" />
 		<Compile Include="CanWeGetMuchHigher/Content/Weapons/Draco.cs" />
 		<Compile Include="CanWeGetMuchHigher/Content/Weapons/Ammo/DracoAmmo.cs" />
 		<Compile Include="CanWeGetMuchHigher/Content/Projectiles/Weapons/DracoProj.cs" />
@@ -51,8 +49,10 @@
 		<Compile Include="CanWeGetMuchHigher/Content/Projectiles/Weapons/ShotgunTrapProj.cs" />
 		<Compile Include="CanWeGetMuchHigher/Content/Tiles/ShotgunTrapEntity.cs" />
 		<Compile Include="CanWeGetMuchHigher/Content/Systems/SoundDelaySystem.cs" />
-		<Compile Include="CanWeGetMuchHigher/Content/Sounds/rickroll.wav" />
 		<Compile Include="CanWeGetMuchHigher/Content/NPCs/Enemies/SwampFly.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Items/Summons/BrickPhone.cs" />
+
 	</ItemGroup>
+
 
 </Project>
