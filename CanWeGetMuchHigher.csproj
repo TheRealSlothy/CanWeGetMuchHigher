@@ -51,8 +51,10 @@
 		<Compile Include="CanWeGetMuchHigher/Content/Systems/SoundDelaySystem.cs" />
 		<Compile Include="CanWeGetMuchHigher/Content/NPCs/Enemies/SwampFly.cs" />
 		<Compile Include="CanWeGetMuchHigher/Content/Items/Summons/BrickPhone.cs" />
+		<Compile Include="CanWeGetMuchHigher/Content/Systems/BossDownedSystem.cs" />
 
 	</ItemGroup>
 
 
 </Project>
+
