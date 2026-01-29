@@ -103,6 +103,11 @@ Items: {
 		DisplayName: Eoka
 		Tooltip: Has a chance not to shoot
 	}
+
+	BrickPhone: {
+		Tooltip: "Summons The Trapper (I Got 2 Phones one for the plug one for the low)"
+		DisplayName: Brick Phone
+	}
 }
 
 Projectiles: {
@@ -158,3 +163,4 @@ NPCs: {
 		DisplayName: Drew
 	}
 }
+

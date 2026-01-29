@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CanWeGetMuchHigher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecac7518b903d1e8ed5e2fee434c41a703696817")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+487bf9457131f089a943125fef5e1e8d2cc18823")]
 [assembly: System.Reflection.AssemblyProductAttribute("CanWeGetMuchHigher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CanWeGetMuchHigher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
